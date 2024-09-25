@@ -56,7 +56,7 @@ For the next step you need to download the kernel, dtb and disk image and save t
 4. Disk Image (disk.img): You can use download either the .xz format or the .img format directly -
     
     a. [disk.xz](https://drive.google.com/file/d/19rMQRcKmV8g-wfR1IOHp4uLPXYmExoCx/view?usp=sharing) Archive .xz format (~833MB) need to decompress using (``` $ tar xvJf disk.xz ```)  
-    b. ][disk.xz](https://drive.google.com/file/d/1HI7VsVE_-AI9yInE9P-FPvDSYu3JwMXR/view?usp=sharing) Archive .xz format (~833MB) need to decompress using
+    b. [disk.xz](https://drive.google.com/file/d/1HI7VsVE_-AI9yInE9P-FPvDSYu3JwMXR/view?usp=sharing) Archive .xz format (~833MB) need to decompress using
     c. [disk.img](https://drive.google.com/file/d/19cPWTYIuFTxdRxrnRhw2qMevb4umpK_H/view?usp=sharing) Decompressed .img format (~4G) 
 
 ## Execute Launch Script:
