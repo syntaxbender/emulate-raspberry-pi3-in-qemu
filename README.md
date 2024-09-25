@@ -70,8 +70,10 @@ Once you are done downloading, put all the files in the same directory and you s
 If you did this successfully you should be able to see this - 
 ![Success!](success.png "Success")
 ## References:
-These are the references used for executing the script. However, you might need to modify the files directly obtained from these sources. 
-- Kernel: https://github.com/dhruvvyas90/qemu-rpi-kernel/blob/master/native-emulation/5.4.51%20kernels/kernel8.img
+These are the references used for executing the script. However, you might need to modify the files directly obtained from these sources
+- Kernel(fork): https://github.com/syntaxbender/qemu-rpi-kernel/blob/master/native-emulation/5.4.51%20kernels/kernel8.img. 
+- Kernel: https://github.com/dhruvvyas90/qemu-rpi-kernel/blob/master/native-emulation/5.4.51%20kernels/kernel8.img 
+- DTB(fork): https://github.com/syntaxbender/qemu-rpi-kernel/blob/master/native-emulation/dtbs/bcm2710-rpi-3-b-plus.dtb
 - DTB: https://github.com/dhruvvyas90/qemu-rpi-kernel/blob/master/native-emulation/dtbs/bcm2710-rpi-3-b-plus.dtb
 - Disk Image: https://downloads.raspberrypi.org/raspbian/images/raspbian-2020-02-14/2020-02-13-raspbian-buster.zip
 - QEMU 6.2.0: https://download.qemu.org/qemu-6.2.0.tar.xz 
